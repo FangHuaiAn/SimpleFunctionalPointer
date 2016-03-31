@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2857B73E-F847-4B02-9238-064979017E93}") = "DemoFuncPointer", "DemoFuncPointer\DemoFuncPointer.cproj", "{76A38227-A08F-46A3-BB79-A6D1CE2B9144}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76A38227-A08F-46A3-BB79-A6D1CE2B9144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76A38227-A08F-46A3-BB79-A6D1CE2B9144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76A38227-A08F-46A3-BB79-A6D1CE2B9144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76A38227-A08F-46A3-BB79-A6D1CE2B9144}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
